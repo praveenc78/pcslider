@@ -1,1 +1,1 @@
-Different types of slider scripts based on jssor framework
+Different types of slider scripts based on various frameworks.
